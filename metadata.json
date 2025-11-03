@@ -1,0 +1,7 @@
+{
+  "name": "FundMind top version 15",
+  "description": "A real-time cryptocurrency wallet application with trading simulation, an AI support agent, and a comprehensive admin panel for portfolio management and user oversight.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
